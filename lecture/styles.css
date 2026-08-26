@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+p{
+    color:red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+img{
+    width:100px;
+
+}
+
+header{
+    background-color:black;
+    color:pink;
+}
+
+
+
