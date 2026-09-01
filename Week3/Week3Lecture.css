@@ -1,0 +1,15 @@
+/* #Last week we used tag selectors, which changes the desired tag
+
+#Classes and IDs
+#Why do we use Classes and IDs?
+#Problem: What if you want to style multiple elements the same way? Or one specific Element
+#Our solution is to use Classes and IDs
+
+Multi line comments in CSS shortcut is Shift+Alt+A
+#Classes
+#Format goes like this: .Classname */
+
+.highlight{
+    color:red;
+    font-weight:bold;
+}
